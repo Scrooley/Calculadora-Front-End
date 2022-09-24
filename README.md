@@ -1,2 +1,2 @@
 # calculadora
-primeiro projeto da vida
+treino de projeto
