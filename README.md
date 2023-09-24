@@ -17,7 +17,7 @@ Projeto sobre uma calculadora com foco no front-end. <br/>
 <br>
 
 <p align="center">
-  <img alt="lampada" src=".github/preview.png" width="30%">
+  <img alt="calculadora" src=".github/preview.png" width="30%">
 </p>
 
 ## 🚀 Tecnologias
